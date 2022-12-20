@@ -1,0 +1,15 @@
+/Users/artembabenko/Desktop/cShark/lab2oop/bin/Debug/net6.0/lab2oop
+/Users/artembabenko/Desktop/cShark/lab2oop/bin/Debug/net6.0/lab2oop.deps.json
+/Users/artembabenko/Desktop/cShark/lab2oop/bin/Debug/net6.0/lab2oop.runtimeconfig.json
+/Users/artembabenko/Desktop/cShark/lab2oop/bin/Debug/net6.0/lab2oop.dll
+/Users/artembabenko/Desktop/cShark/lab2oop/bin/Debug/net6.0/lab2oop.pdb
+/Users/artembabenko/Desktop/cShark/lab2oop/obj/Debug/net6.0/lab2oop.csproj.AssemblyReference.cache
+/Users/artembabenko/Desktop/cShark/lab2oop/obj/Debug/net6.0/lab2oop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artembabenko/Desktop/cShark/lab2oop/obj/Debug/net6.0/lab2oop.AssemblyInfoInputs.cache
+/Users/artembabenko/Desktop/cShark/lab2oop/obj/Debug/net6.0/lab2oop.AssemblyInfo.cs
+/Users/artembabenko/Desktop/cShark/lab2oop/obj/Debug/net6.0/lab2oop.csproj.CoreCompileInputs.cache
+/Users/artembabenko/Desktop/cShark/lab2oop/obj/Debug/net6.0/lab2oop.dll
+/Users/artembabenko/Desktop/cShark/lab2oop/obj/Debug/net6.0/refint/lab2oop.dll
+/Users/artembabenko/Desktop/cShark/lab2oop/obj/Debug/net6.0/lab2oop.pdb
+/Users/artembabenko/Desktop/cShark/lab2oop/obj/Debug/net6.0/lab2oop.genruntimeconfig.cache
+/Users/artembabenko/Desktop/cShark/lab2oop/obj/Debug/net6.0/ref/lab2oop.dll
